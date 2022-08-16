@@ -1,7 +1,7 @@
-version:0.1
+version: 0.1
 phases:
   build:
-    commands: 
+    commands:
       - echo Nothing to do yet
 artifacts:
   files:
@@ -10,4 +10,3 @@ artifacts:
     - STang-Resume-2022.pdf
     - styles/main.css
     - images/*
-    
